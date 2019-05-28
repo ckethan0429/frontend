@@ -1,0 +1,10 @@
+/* 두개의 차이를 알수 있어야함 */
+
+.none {
+    display : none;
+
+}
+
+.hidden{
+    visibility: hidden;
+}
